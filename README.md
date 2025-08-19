@@ -16,7 +16,7 @@
 
 Check out the live, deployed version of the website:
 
-**[➡️ View Live Site](https://dpanvish.github.io/GPT3/)**
+**[➡️ View Live Site](https://gptface.netlify.app/)**
 
 ---
 
